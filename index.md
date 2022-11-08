@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'FH-Prof. DI Dr. Marc Kurz'
 description: null
 image: null
 author: null
