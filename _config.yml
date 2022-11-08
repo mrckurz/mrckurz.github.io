@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: FH-Prof. Dr. Marc Kurz
+subtitle: Professor for Mobile Software Systems | University of Applied Sciences Upper Austria
+email: marc.kurz@fh-ooe.at
+description: Passionate lecturer, curious researcher in the fields of <br />Mobile User Interaction, Ambient Intelligence, Mobile Software Systems.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://mrckurz.github.io
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Softwarepark 11
+city: Hagenberg
+state: 
+zip_code: 4232
+country: Austria
+phone: +43 (0)50804-22827
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,13 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/mrckurz
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/mmrrcccc/
+  LinkedIn: https://www.linkedin.com/in/marc-kurz-11516772/
+  Twitter: https://twitter.com/marckurz
+  Facebook: https://www.facebook.com/marcules
   Slack:
 
 # build settings
