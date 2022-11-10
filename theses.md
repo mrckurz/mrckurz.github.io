@@ -31,8 +31,8 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- One -->
-<section id="one">
+<!-- Two -->
+<section id="two">
 	<div class="inner">
 		<header class="major">
 			<h2>Supervised Master Theses</h2>
@@ -53,6 +53,4 @@ nav-menu: true
 </dl>
 	</div>
 </section>
-
-
 </div>
