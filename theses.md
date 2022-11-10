@@ -14,11 +14,11 @@ nav-menu: true
 		<header class="major">
 			<h2>Supervised Bachelor Theses</h2>
 		</header>
-		<dl>
-	<dt><b>Michael Schinagl, </b>Entwicklung eines TCP Client in C# für das Empfangen von Daten für ein OLED Display, Mobile Computing, June 2022</dt>
-	<dt>Item2</dt>
-	<dt>Item3</dt>
-</dl>
+		<ul>
+	        <li><b>Michael Schinagl, </b>Entwicklung eines TCP Client in C# für das Empfangen von Daten für ein OLED Display, Mobile Computing, June 2022</li>
+	        <li>Item2</li>
+	        <li>Item3</li>
+        </ul>
 	</div>
 </section>
 
