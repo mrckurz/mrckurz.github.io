@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'FH-Prof. DI Dr. Marc Kurz'
 description: null
-image: null
+image: assets/images/me.png
 author: null
 show_tile: false
 ---
