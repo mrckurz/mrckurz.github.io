@@ -27,3 +27,5 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Supervised Master Theses</h2>
+
+</div>
